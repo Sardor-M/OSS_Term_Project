@@ -41,10 +41,14 @@
 
 ## About The Project
 
-This small project is dedicated to illustrate the COVID-19 Cases distribution among the different nations using the Scatter Plots on Maps and Choropleth Maps in the Plotly libraries.
-
+This small project is dedicated to illustrate the COVID-19 Cases distribution among the different nations using the 
+  
+    - Scatter Maps  
+    - Choropleth Maps 
+  
+in the Plotly libraries.
 Here, i have used the Novel_Corona_Virus_Dataset to sort the data and implement it on the different representations of the Plotly.
-
+<img src = "dataset/screen_shot.png" alt="data" width="1000" height="400">    
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
