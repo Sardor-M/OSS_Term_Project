@@ -67,7 +67,7 @@ Here, i have used the Novel_Corona_Virus_Dataset to sort the data and implement 
 
 
 <!-- Prerequisites -->
-<hr>
+
 ### Prerequisites
 
 This are the required libraies to install before running the program on your computer locally.
@@ -85,10 +85,8 @@ Python Pandas
 https://pandas.pydata.org/
 ```
 
-
-
 <!-- CONTRIBUTING -->
-<hr>
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -105,7 +103,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-<hr>
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
@@ -114,7 +112,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-<hr>
+
 ## Contact
 
 Sardorbek Madaminov - [@Linked-in](https://www.linkedin.com/in/sardorbekmadaminov-44987a1a7/Linkedin) - sardor0968@gmail.com
