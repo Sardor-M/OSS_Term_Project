@@ -53,7 +53,10 @@ in the Plotly libraries.
   
 Here, i have used the Novel_Corona_Virus_Dataset to sort the data and implement it on the different representations of the Plotly.
 <hr>  
-<img src = "dataset/screen_shot.png" alt="data" width="1000" height="400">    
+<img src = "dataset/screen_shot.png" alt="data" width="1000" height="400">  
+<p> Data Set can download here </p>
+
+< a href="dataset/time_series_covid_19_confirmed.csv"> Here </a>
  
 <p align="right">(<a href="#top">back to top</a>)</p>
 
