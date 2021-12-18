@@ -28,6 +28,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <li><a href="#Dataset">Dataset</a></li>
     <li>
       <a href="#prerequisites">Prerequisites</a>
     </li>
@@ -47,8 +48,13 @@ This small project is dedicated to illustrate the COVID-19 Cases distribution am
     - Choropleth Maps 
   
 in the Plotly libraries.
+  
+### Dataset
+  
 Here, i have used the Novel_Corona_Virus_Dataset to sort the data and implement it on the different representations of the Plotly.
+  
 <img src = "dataset/screen_shot.png" alt="data" width="1000" height="400">    
+  
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
