@@ -54,20 +54,20 @@ in the Plotly libraries.
 Here, i have used the Novel_Corona_Virus_Dataset to sort the data and implement it on the different representations of the Plotly.
 <hr>  
 <img src = "dataset/screen_shot.png" alt="data" width="1000" height="400">    
-<hr>  
+ 
 <p align="right">(<a href="#top">back to top</a>)</p>
-<hr>
 
+<hr>
 ### Built With
 
 - [Jupyter Notebook](https://jupyter.org/)
 - [Python](https://www.python.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-<hr>
+
 
 <!-- Prerequisites -->
-
+<hr>
 ### Prerequisites
 
 This are the required libraies to install before running the program on your computer locally.
@@ -85,10 +85,10 @@ Python Pandas
 https://pandas.pydata.org/
 ```
 
-<hr>
+
 
 <!-- CONTRIBUTING -->
-
+<hr>
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -102,19 +102,19 @@ Don't forget to give the project a star! Thanks again!
 3. Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-<hr>
+
 
 <!-- LICENSE -->
-
+<hr>
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-<hr>
+
 
 <!-- CONTACT -->
-
+<hr>
 ## Contact
 
 Sardorbek Madaminov - [@Linked-in](https://www.linkedin.com/in/sardorbekmadaminov-44987a1a7/Linkedin) - sardor0968@gmail.com
