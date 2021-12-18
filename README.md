@@ -57,7 +57,7 @@ Here, i have used the Novel_Corona_Virus_Dataset to sort the data and implement 
  
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<hr>
+
 ### Built With
 
 - [Jupyter Notebook](https://jupyter.org/)
