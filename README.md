@@ -54,7 +54,7 @@ in the Plotly libraries.
 Here, i have used the Novel_Corona_Virus_Dataset to sort the data and implement it on the different representations of the Plotly.
 <hr>  
 <img src = "dataset/screen_shot.png" alt="data" width="1000" height="400">  
-<p> Data Set is available in this link </p>
+<p> Download DataSet </p>
 
 <a href="https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset"> Novel Corona Virus Data Set </a>
  
