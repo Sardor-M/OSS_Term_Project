@@ -52,10 +52,11 @@ in the Plotly libraries.
 ### Dataset
   
 Here, i have used the Novel_Corona_Virus_Dataset to sort the data and implement it on the different representations of the Plotly.
-  
+<hr>  
 <img src = "dataset/screen_shot.png" alt="data" width="1000" height="400">    
-  
+<hr>  
 <p align="right">(<a href="#top">back to top</a>)</p>
+<hr>
 
 ### Built With
 
@@ -63,6 +64,7 @@ Here, i have used the Novel_Corona_Virus_Dataset to sort the data and implement 
 - [Python](https://www.python.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+<hr>
 
 <!-- Prerequisites -->
 
@@ -83,6 +85,8 @@ Python Pandas
 https://pandas.pydata.org/
 ```
 
+<hr>
+
 <!-- CONTRIBUTING -->
 
 ## Contributing
@@ -98,6 +102,7 @@ Don't forget to give the project a star! Thanks again!
 3. Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+<hr>
 
 <!-- LICENSE -->
 
@@ -106,6 +111,7 @@ Don't forget to give the project a star! Thanks again!
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+<hr>
 
 <!-- CONTACT -->
 
