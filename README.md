@@ -30,7 +30,6 @@
     </li>
     <li>
       <a href="#prerequisites">Prerequisites</a>
-    
     </li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -101,7 +100,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Sardorbek MAdaminov - [@Linked-in](https://www.linkedin.com/in/sardorbekmadaminov-44987a1a7/Linkedin) - sardor0968@gmail.com
+Sardorbek Madaminov - [@Linked-in](https://www.linkedin.com/in/sardorbekmadaminov-44987a1a7/Linkedin) - sardor0968@gmail.com
 
 Project Link: [https://github.com/Sardor-M/OSS_Term_Project.git)
 
