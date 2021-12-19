@@ -90,6 +90,7 @@ https://pandas.pydata.org/
 
 <!-- CONTRIBUTING -->
 
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -107,6 +108,7 @@ Don't forget to give the project a star! Thanks you!
 
 <!-- LICENSE -->
 
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
@@ -116,9 +118,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 
+
 ## Contact
 
-Sardorbek Madaminov - [@Linked-in](https://www.linkedin.com/in/sardorbekmadaminov-44987a1a7/Linkedin) - sardor0968@gmail.com
+Sardorbek Madaminov - [@Linked-in](https://www.linkedin.com/in/sardorbekmadaminov-44987a1a7/Linkedin)
+Email - <a href = "mailto : sardor0968@gmail.com> sardor0968@gmail.com </a>
 
 Project Link: [https://github.com/Sardor-M/OSS_Term_Project.git)
 
