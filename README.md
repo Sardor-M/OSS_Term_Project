@@ -35,6 +35,7 @@
     <li><a href="#Contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#Reference">Reference</a></li>
   </ol>
 </details>
 
@@ -125,6 +126,16 @@ Sardorbek Madaminov - [Linked-in](https://www.linkedin.com/in/sardorbekmadaminov
 Send e-mail - sardor0968@gmail.com <br>
 
 Project Link: [https://github.com/Sardor-M/OSS_Term_Project.git)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- REFERENCE -->
+
+## Reference
+
+This project is done by following the structures of the other person's project. 
+
+Link for the original project source code : https://github.com/teobeeguan/COVID-19-Scatter-Choropleth-Map.git
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
