@@ -9,8 +9,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 
@@ -50,7 +48,9 @@ This small project is dedicated to illustrate the COVID-19 Cases distribution am
   
 in the Plotly libraries.
   
-### Dataset
+<!-- DATASET --> 
+  
+### Dataset 
   
 Here, i have used the Novel_Corona_Virus_Dataset to sort the data and implement it on the different representations of the Plotly.
 <hr>  
@@ -98,7 +98,6 @@ Contributions are what make the open source community such an amazing place to l
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks you!
-
 
 1. Commit your Changes 
 2. Push to the Branch 
