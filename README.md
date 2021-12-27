@@ -132,13 +132,8 @@ Project Link: [https://github.com/Sardor-M/OSS_Term_Project.git)
 
 ## Reference
 
-This project is done by following the structures of the other person's project. 
-
-Link for the original project source code : https://github.com/teobeeguan/COVID-19-Scatter-Choropleth-Map.git
+This project is done by following the reference of the other person's project. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
