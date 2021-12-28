@@ -105,9 +105,20 @@ Don't forget to give the project a star! Thanks you!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Output 
+
+- Desired Output for the Scatter Map on your local computer. 
+
+<img src = "dataset/scattermap.png" alt="data" width="1000" height="700"> 
+
+- Desired Output for the Choropleth Map on your local computer. 
+
+<img src = "dataset/choroplethmap.png" alt="data" width="1000" height="700"> 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 <!-- LICENSE -->
-
 
 ## License
 
@@ -115,9 +126,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
 <!-- CONTACT -->
-
 
 ## Contact
 
@@ -135,5 +144,4 @@ Project Link: [https://github.com/Sardor-M/OSS_Term_Project.git)
 This project is done by following the reference of the other person's project. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
