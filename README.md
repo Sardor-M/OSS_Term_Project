@@ -31,6 +31,7 @@
       <a href="#prerequisites">Prerequisites</a>
     </li>
     <li><a href="#Contributing">Contributing</a></li>
+    <li><a href="#Output">Output</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#Reference">Reference</a></li>
@@ -92,7 +93,7 @@ https://pandas.pydata.org/
 <!-- CONTRIBUTING -->
 
 
-## Contributing
+### Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -105,7 +106,9 @@ Don't forget to give the project a star! Thanks you!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Output 
+<!-- Output -->
+
+### Output 
 
 - Desired Output for the Scatter Map on your local computer. 
 
@@ -114,13 +117,11 @@ Don't forget to give the project a star! Thanks you!
 - Desired Output for the Choropleth Map on your local computer. 
 
 <img src = "dataset/choroplethmap.png" alt="data" width="1000" height="700"> 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- LICENSE -->
 
-## License
+### License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
@@ -128,7 +129,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 
-## Contact
+### Contact
 
 Sardorbek Madaminov - [LinkedIn](https://www.linkedin.com/in/sardorbekmadaminov-44987a1a7/Linkedin) <br>
 Send e-mail - sardor0968@gmail.com <br>
@@ -139,7 +140,7 @@ Project Link: [https://github.com/Sardor-M/OSS_Term_Project.git)
 
 <!-- REFERENCE -->
 
-## Reference
+### Reference
 
 This project is done by following the reference of the other person's project. 
 
