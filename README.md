@@ -134,7 +134,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Sardorbek Madaminov - [LinkedIn](https://www.linkedin.com/in/sardorbekmadaminov-44987a1a7/Linkedin) <br>
 Send e-mail - sardor0968@gmail.com <br>
 
-Project Link: [https://github.com/Sardor-M/OSS_Term_Project.git)
+Project Link: [Here](https://github.com/Sardor-M/OSS_Term_Project.git)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
