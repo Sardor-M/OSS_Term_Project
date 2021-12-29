@@ -110,11 +110,11 @@ Don't forget to give the project a star! Thanks you!
 
 ### Output 
 
-- Desired Output for the Scatter Map on your local computer. 
+- Desired Output for the Scatter Map on your local browser
 
 <img src = "dataset/scattermap.png" alt="data" width="1000" height="700"> 
 
-- Desired Output for the Choropleth Map on your local computer. 
+- Desired Output for the Choropleth Map on your local browser. 
 
 <img src = "dataset/choroplethmap.png" alt="data" width="1000" height="700"> 
 <p align="right">(<a href="#top">back to top</a>)</p>
