@@ -57,8 +57,7 @@ Here, i have used the Novel_Corona_Virus_Dataset to sort the data and implement 
 <hr>  
 <img src = "dataset/screen_shot.png" alt="data" width="1000" height="400">  
 <p> Download DataSet </p>
-
-<a href="https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset"> Novel Corona Virus Data Set </a>
+<a href="https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset"> Novel Corona Virus Data Set </a> <br>
 Note : Dataset is updated daily and can be donwloaded above link. 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
